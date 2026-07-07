@@ -73,3 +73,7 @@ VERSION           Versão atual do toolkit
 ```bash
 node scripts/tests/validate-toolkit.test.js
 ```
+
+## Licença
+
+[MIT](LICENSE)
