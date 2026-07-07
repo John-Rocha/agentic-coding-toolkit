@@ -29,7 +29,7 @@ ACT Lite is not installed in the expected location (`~/.agentic-coding-toolkit-l
 
 To fix this, clone the repository:
 
-    git clone https://github.com/CodeWithAndreaPro/agentic-coding-toolkit-lite.git ~/.agentic-coding-toolkit-lite
+    git clone https://github.com/John-Rocha/agentic-coding-toolkit.git ~/.agentic-coding-toolkit-lite
 
 Then run the install script:
 
@@ -287,7 +287,7 @@ Antigravity:
 
 Then restart any affected Claude/OpenCode CLI sessions, reload or restart Cursor if installed, refresh Codex `/skills` or restart Codex if installed, and restart Gemini CLI or Antigravity if installed, to pick up updates.
 
-[View full changelog](https://github.com/CodeWithAndreaPro/agentic-coding-toolkit-lite/blob/main/CHANGELOG.md)
+[View full changelog](https://github.com/John-Rocha/agentic-coding-toolkit/blob/main/CHANGELOG.md)
 ```
 </step>
 
