@@ -1,4 +1,4 @@
-# Agentic Coding Toolkit (Lite)
+# Agentic Coding Toolkit
 
 Conjunto de skills de agente que leva uma feature de ideia bruta a código entregue, com fluxo estruturado e revisável: **Interview → Spec → Refine → Work Items → Implement**.
 
